@@ -1,4 +1,5 @@
 # -6companies30days
+# GoldMan Sachs
 Q1. https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
 
 Q2. https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/
@@ -29,7 +30,7 @@ Q14.https://leetcode.com/problems/minimum-size-subarray-sum/
 
 Q15. https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1
 
-#Amazon
+# Amazon
 Q1. https://practice.geeksforgeeks.org/problems/maximum-profit4657/1
 
 Q2. https://leetcode.com/problems/longest-mountain-in-array/
