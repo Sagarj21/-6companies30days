@@ -18,11 +18,11 @@ Q8. https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/
 
 Q9. https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1
 
-Q10. Find max 10 numbers from 10M entries.
+Q10.https://stackoverflow.com/questions/41658884/how-to-efficiently-find-10-greatest-numbers-from-billions-of-numbers
 
 Q11.https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/
 
-Q12.Find total number of Squares in a N*N chessboard
+Q12.https://www.geeksforgeeks.org/program-to-find-number-of-squares-on-a-chessboard/
 
 Q13.https://practice.geeksforgeeks.org/problems/decode-the-string2444/1
 
